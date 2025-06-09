@@ -16,8 +16,8 @@ https://github.com/ugapanyuk/courses_current/wiki/COURSE_TMO_SPRING_2025/
 
 ## Рубежные контроли
 
-- РК№1 - [задание](https://github.com/ugapanyuk/courses_current/wiki/TMO_RK_1) | [решение](./rk1/) | [notebook](https://nbviewer.org/github/Yu-Leo/bmstu-iu5-tmo/blob/main/rk1/bmstu_tmo_rk1.ipynb)
-- РК№2 - [задание](https://github.com/ugapanyuk/courses_current/wiki/TMO_RK_2) | [решение](./rk2/) | [notebook](https://nbviewer.org/github/Yu-Leo/bmstu-iu5-tmo/blob/main/rk2/bmstu_tmo_rk2.ipynb)
+- РК№1 - [задание](https://github.com/ugapanyuk/courses_current/wiki/TMO_RK_1) | [решение](./rk1/))
+- РК№2 - [задание](https://github.com/ugapanyuk/courses_current/wiki/TMO_RK_2) | [решение](./rk2/))
 
 ## НИРС
 
